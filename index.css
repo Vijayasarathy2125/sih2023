@@ -1,6 +1,4 @@
-  @import "./common.css";
-
-  main {
+main {
     display: flex;
     flex-direction: column;
     justify-content: center;
